@@ -1,0 +1,14 @@
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.exe
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.deps.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.runtimeconfig.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.runtimeconfig.dev.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.dll
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.pdb
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.csproj.AssemblyReference.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.AssemblyInfoInputs.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.AssemblyInfo.cs
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.csproj.CoreCompileInputs.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.dll
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.pdb
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.genruntimeconfig.cache
