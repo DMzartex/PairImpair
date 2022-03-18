@@ -12,3 +12,16 @@ C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreap
 C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.dll
 C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.pdb
 C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.genruntimeconfig.cache
+C:\Users\190478\Desktop\PairImpair\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.exe
+C:\Users\190478\Desktop\PairImpair\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.deps.json
+C:\Users\190478\Desktop\PairImpair\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.runtimeconfig.json
+C:\Users\190478\Desktop\PairImpair\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.runtimeconfig.dev.json
+C:\Users\190478\Desktop\PairImpair\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.dll
+C:\Users\190478\Desktop\PairImpair\PairImpaire\bin\Debug\netcoreapp3.1\PairImpaire.pdb
+C:\Users\190478\Desktop\PairImpair\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.csprojAssemblyReference.cache
+C:\Users\190478\Desktop\PairImpair\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.AssemblyInfoInputs.cache
+C:\Users\190478\Desktop\PairImpair\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.AssemblyInfo.cs
+C:\Users\190478\Desktop\PairImpair\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.csproj.CoreCompileInputs.cache
+C:\Users\190478\Desktop\PairImpair\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.dll
+C:\Users\190478\Desktop\PairImpair\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.pdb
+C:\Users\190478\Desktop\PairImpair\PairImpaire\obj\Debug\netcoreapp3.1\PairImpaire.genruntimeconfig.cache
